@@ -18,5 +18,5 @@ stack :
     - CI : GitHub Actions
 
 
-sources : 
+sources :
     - https://www.prix-carburants.gouv.fr/rubrique/opendata/
